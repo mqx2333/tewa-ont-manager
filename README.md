@@ -107,6 +107,16 @@ the Free Software Foundation, either version 3 of the License, or
 - SU 密码算法源自社区（chinesesuper 等）对天邑固件的逆向成果，本项目仅做工程化整合。
 - 感谢所有为家庭光猫互操作、IPv6 放行方案做出贡献的网友。
 
+## 👥 贡献者 / Contributors
+
+| 贡献者 | 角色 | 链接 |
+| --- | --- | --- |
+| **mqx2333** | 项目作者 / 维护者 | https://github.com/mqx2333 |
+| **DeepSeek** | AI 模型（代码生成 / 调试协助） | https://www.deepseek.com |
+| **OpenCode** | AI 编程 Agent（CLI，驱动本项目开发） | https://opencode.ai |
+
+> 本项目由作者与上述 AI 工具协作完成。欢迎通过 Issue / PR 参与贡献，也欢迎把你的名字加进 [`CONTRIBUTORS.md`](CONTRIBUTORS.md)。
+
 ---
 
 <details>
@@ -124,5 +134,7 @@ Windows + Python 3 stdlib only (tkinter). No third-party dependencies.
 > For your **own** devices only. Use at your own risk.
 
 Licensed under **GPL-3.0**.
+
+Contributors: [mqx2333](https://github.com/mqx2333) · **DeepSeek** (AI model) · **OpenCode** (AI coding agent). See [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 </details>
